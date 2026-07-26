@@ -36,3 +36,6 @@ A high-performance, multi-threaded network packet capture and analysis tool buil
 3. Navigate to the script directory and execute the script:
    ```powershell
    .\MiniWireshark.ps1
+
+
+<img width="1455" height="913" alt="Capture555" src="https://github.com/user-attachments/assets/3c02e555-8285-4d3b-9d11-20b3e82d4663" />
