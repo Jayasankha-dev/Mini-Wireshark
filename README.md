@@ -37,5 +37,5 @@ A high-performance, multi-threaded network packet capture and analysis tool buil
    ```powershell
    .\MiniWireshark.ps1
 
+<img width="1450" height="927" alt="Capture555" src="https://github.com/user-attachments/assets/89941cb1-6dc4-453d-80f0-f5ab19d883d1" />
 
-<img width="1455" height="913" alt="Capture555" src="https://github.com/user-attachments/assets/3c02e555-8285-4d3b-9d11-20b3e82d4663" />
