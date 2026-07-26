@@ -1,5 +1,9 @@
 # 🦈 Mini Wireshark Enterprise (PowerShell Packet Analyzer)
 
+<img width="256" height="256" alt="app" src="https://github.com/user-attachments/assets/17dc76dd-8315-4adc-9194-2e857514f81d" />
+
+
+
 A high-performance, multi-threaded network packet capture and analysis tool built entirely using PowerShell and Windows Forms (WinForms). Designed to provide a lightweight, dependency-free GUI alternative for real-time network troubleshooting and packet inspection on Windows.
 
 ---
